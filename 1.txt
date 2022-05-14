@@ -1,0 +1,19 @@
+
+инициализация git init
+добавление файлов в папку (через рабочий стол)
+проверка на статут git status
+добавление комента git commit
+отправка в проект на git hub 
+как сделать преключения между ветками
+
+
+cd ....
+git init
+файл
+git status
+git add ...
+st
+git commit -m "grgdsgrdgds"
+git remote add original https://github.com/kiiirrr/bolshoi-nikita.git
+git remote -v
+git push -u original master
